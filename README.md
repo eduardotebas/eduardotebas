@@ -37,7 +37,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/eduardotebas/eduardotebas/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
